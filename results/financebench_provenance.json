@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/patronus-ai/financebench",
+  "revision": "cc39aeb4afdf33909ee1412188bf89035950c2eb",
+  "benchmark_license": "CC BY-NC 4.0; https://huggingface.co/datasets/PatronusAI/financebench",
+  "filing_rights": "Issuer reports retain their respective rights; the benchmark license is not a blanket filing license."
+}

@@ -1,0 +1,13 @@
+pdfplumber
+pypdf
+pandas
+matplotlib
+numpy
+sentence-transformers
+chromadb
+rank-bm25
+ipykernel
+nbclient
+nbformat
+requests
+pydantic>=2,<3

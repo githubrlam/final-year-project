@@ -1,0 +1,157 @@
+financebench_id,variant,doc_name,seconds,model_calls,retrieval_rounds,input_tokens,output_tokens,abstain,invalid,evidence_page_recall,answer_correctness,citation_support,citation_completeness,assessment_source
+financebench_id_00005,B0,CORNING_2022_10K,61.78528393099998,1,1,2157,47,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00070,B0,AMERICANWATERWORKS_2022_10K,70.08597877900002,3,1,6059,381,True,True,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00080,B0,PAYPAL_2022_10K,62.46351065199997,1,1,2182,31,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00206,B0,JPMORGAN_2022_10K,60.89208903400004,1,1,2042,55,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00215,B0,VERIZON_2022_10K,55.75362540799995,2,1,3353,164,False,False,0.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00216,B0,VERIZON_2022_10K,56.77334272500002,1,1,2132,45,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00222,B0,AMD_2022_10K,58.12383511900009,1,1,2176,38,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00438,B0,ADOBE_2022_10K,59.1747595490001,1,1,2126,40,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00464,B0,BOEING_2022_10K,55.991437789999964,1,1,1945,33,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00476,B0,AMERICANEXPRESS_2022_10K,61.379645668999956,1,1,2267,131,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00494,B0,BOEING_2022_10K,62.091603247000194,2,1,4267,227,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00499,B0,3M_2022_10K,61.05922108999994,1,1,1938,72,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00517,B0,BOEING_2022_10K,63.59634196600018,2,1,4428,189,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00540,B0,AES_2022_10K,70.96391075099996,2,1,4477,114,False,False,0.5,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00563,B0,AMD_2022_10K,61.08742549400017,2,1,4313,111,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00566,B0,VERIZON_2022_10K,62.243726099000014,2,1,4096,250,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00585,B0,BOEING_2022_10K,59.042252714999904,1,1,2185,87,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00591,B0,ADOBE_2022_10K,58.443106930999875,1,1,1992,40,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00669,B0,JOHNSON_JOHNSON_2022_10K,64.16015059100005,1,1,2064,72,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00678,B0,BOEING_2022_10K,62.69153177199996,1,1,2238,36,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00711,B0,JOHNSON_JOHNSON_2022_10K,67.54318070299996,1,1,2243,40,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00720,B0,AMERICANEXPRESS_2022_10K,64.1371694280001,1,1,2151,41,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00723,B0,AMERICANEXPRESS_2022_10K,62.61132831100008,1,1,2041,30,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00735,B0,PEPSICO_2022_10K,59.63228697900013,1,1,2227,37,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00757,B0,AMD_2022_10K,56.506487675000244,1,1,2038,59,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00790,B0,CVSHEALTH_2022_10K,59.112003146000006,1,1,1918,47,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00917,B0,AMD_2022_10K,61.13619771999993,1,1,2172,80,True,False,1.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00956,B0,JOHNSON_JOHNSON_2022_10K,63.35572894100005,1,1,2250,89,True,False,1.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00995,B0,AMD_2022_10K,59.62593165999988,1,1,2118,122,False,False,0.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_01009,B0,PEPSICO_2022_10K,58.81252579300008,1,1,2377,46,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01028,B0,AMERICANEXPRESS_2022_10K,61.95284199100024,2,1,4593,136,False,False,0.0,not_assessable,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01091,B0,BOEING_2022_10K,57.29984009200007,1,1,2296,36,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01107,B0,CVSHEALTH_2022_10K,58.47448695999992,1,1,2411,45,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01198,B0,AMD_2022_10K,57.3778017059999,1,1,1978,55,True,False,1.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01226,B0,3M_2022_10K,66.8205750520001,2,1,3911,221,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01244,B0,CVSHEALTH_2022_10K,59.9560454020002,2,1,3634,117,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_01254,B0,MGMRESORTS_2022_10K,58.83479377000003,1,1,2391,59,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01279,B0,AMD_2022_10K,64.13132968399987,2,1,5311,104,False,False,1.0,pass,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01290,B0,BOEING_2022_10K,59.142592654000055,1,1,1990,59,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01319,B0,AES_2022_10K,66.85806998099997,1,1,2394,30,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01328,B0,PEPSICO_2022_10K,69.7249927150001,2,1,4701,124,False,False,0.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_01346,B0,CORNING_2022_10K,64.42121288099997,2,1,4320,123,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01351,B0,AMERICANEXPRESS_2022_10K,63.74010748499995,2,1,4381,105,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01865,B0,3M_2022_10K,61.42317031699986,1,1,2181,70,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01964,B0,AMERICANEXPRESS_2022_10K,63.18082036199985,2,1,4701,134,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01981,B0,AMERICANEXPRESS_2022_10K,60.9642344709996,1,1,1811,43,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_03620,B0,PEPSICO_2022_10K,70.96895310400032,2,1,4866,126,False,False,0.5,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_03718,B0,LOCKHEEDMARTIN_2022_10K,65.4598409539999,2,1,4513,179,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_04481,B0,PEPSICO_2022_10K,70.26719253299962,2,1,4486,135,False,False,0.5,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_06272,B0,COCACOLA_2022_10K,69.04853874199989,2,1,4587,161,True,False,0.5,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_10136,B0,GENERALMILLS_2022_10K,67.0878912219996,2,1,4530,80,True,False,1.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_10420,B0,AES_2022_10K,66.9731563649998,2,1,4832,87,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00005,B1,CORNING_2022_10K,124.5546065110002,3,2,6356,157,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00070,B1,AMERICANWATERWORKS_2022_10K,124.92058341100028,3,2,6531,234,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00080,B1,PAYPAL_2022_10K,126.46491000200058,3,2,6656,143,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00206,B1,JPMORGAN_2022_10K,119.62148260699996,2,2,3906,62,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00215,B1,VERIZON_2022_10K,113.17674822800018,3,2,5207,154,False,False,0.5,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00216,B1,VERIZON_2022_10K,112.11410182999953,2,2,3981,61,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00222,B1,AMD_2022_10K,119.84387234299993,2,2,4192,76,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00438,B1,ADOBE_2022_10K,121.20296248399973,2,2,4217,46,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00464,B1,BOEING_2022_10K,117.33333003999996,2,2,3801,50,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00476,B1,AMERICANEXPRESS_2022_10K,127.2669589850002,2,2,4210,149,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00494,B1,BOEING_2022_10K,120.49780034899959,2,2,4133,68,False,False,0.0,fail,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00499,B1,3M_2022_10K,130.41173064899976,3,2,5882,206,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00517,B1,BOEING_2022_10K,127.67798940300054,3,2,6619,148,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00540,B1,AES_2022_10K,132.7180025179996,3,2,6817,130,False,False,0.5,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00563,B1,AMD_2022_10K,121.22464951300026,3,2,6304,149,False,False,0.0,pass,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00566,B1,VERIZON_2022_10K,114.5127793040001,3,2,6506,199,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00585,B1,BOEING_2022_10K,123.0193508729999,3,2,6569,184,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00591,B1,ADOBE_2022_10K,122.45091632500043,2,2,3826,69,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00669,B1,JOHNSON_JOHNSON_2022_10K,126.95765733299959,3,2,6621,179,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00678,B1,BOEING_2022_10K,127.0523873709999,3,2,6793,240,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00711,B1,JOHNSON_JOHNSON_2022_10K,156.36463750999974,3,2,6835,1106,True,True,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00720,B1,AMERICANEXPRESS_2022_10K,129.59480664900002,2,2,4102,117,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00723,B1,AMERICANEXPRESS_2022_10K,134.8398910980004,3,2,6048,386,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00735,B1,PEPSICO_2022_10K,122.93521599700034,2,2,4275,51,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00757,B1,AMD_2022_10K,118.10077172799993,2,2,4037,46,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00790,B1,CVSHEALTH_2022_10K,124.53957918299966,2,2,3750,95,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00917,B1,AMD_2022_10K,122.95900254200023,3,2,6347,133,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00956,B1,JOHNSON_JOHNSON_2022_10K,128.6766932089995,3,2,6353,368,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00995,B1,AMD_2022_10K,118.94549415100028,2,2,3952,135,False,False,0.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_01009,B1,PEPSICO_2022_10K,126.2095705239999,2,2,4503,106,False,False,0.0,not_assessable,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01028,B1,AMERICANEXPRESS_2022_10K,121.09063862200037,2,2,4265,75,False,False,0.0,not_assessable,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01091,B1,BOEING_2022_10K,120.0366683100001,2,2,4039,89,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01107,B1,CVSHEALTH_2022_10K,123.25059063299977,2,2,4415,207,False,False,0.5,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01198,B1,AMD_2022_10K,124.42432592600017,3,2,5902,224,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_01226,B1,3M_2022_10K,130.32844864399885,3,2,6346,249,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01244,B1,CVSHEALTH_2022_10K,120.05431938900074,3,2,5872,138,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_01254,B1,MGMRESORTS_2022_10K,117.85996766900098,2,2,4450,62,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01279,B1,AMD_2022_10K,130.32895448400086,3,2,6493,131,False,False,0.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_01290,B1,BOEING_2022_10K,120.99294296399967,2,2,3965,118,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01319,B1,AES_2022_10K,124.56579485000111,2,2,4447,75,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01328,B1,PEPSICO_2022_10K,125.48186142300074,3,2,6725,136,False,False,0.0,not_assessable,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01346,B1,CORNING_2022_10K,122.39812671300024,3,2,6334,146,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01351,B1,AMERICANEXPRESS_2022_10K,123.87003329899926,3,2,6144,126,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01865,B1,3M_2022_10K,121.45866395899975,2,2,4180,69,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01964,B1,AMERICANEXPRESS_2022_10K,126.6635360729997,3,2,7452,190,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01981,B1,AMERICANEXPRESS_2022_10K,121.38838229200155,2,2,3908,64,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_03620,B1,PEPSICO_2022_10K,133.69745927900112,3,2,7102,170,False,False,0.5,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_03718,B1,LOCKHEEDMARTIN_2022_10K,123.72998617600024,3,2,6694,148,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_04481,B1,PEPSICO_2022_10K,138.6651174339986,3,2,6688,194,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_06272,B1,COCACOLA_2022_10K,124.97870791099922,3,2,6650,84,True,False,0.5,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_10136,B1,GENERALMILLS_2022_10K,125.77008977100013,3,2,6504,86,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_10420,B1,AES_2022_10K,126.64242651899986,3,2,6471,142,True,False,0.5,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00005,B2,CORNING_2022_10K,121.78538847500022,3,2,6689,181,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00070,B2,AMERICANWATERWORKS_2022_10K,124.80327788300019,4,2,8655,448,False,False,0.5,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00080,B2,PAYPAL_2022_10K,124.89634992700121,3,2,6697,176,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00206,B2,JPMORGAN_2022_10K,118.95200013200156,2,2,4008,108,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00215,B2,VERIZON_2022_10K,114.13926121999975,3,2,6105,223,False,False,0.5,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00216,B2,VERIZON_2022_10K,127.4447084580006,3,2,6296,437,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00222,B2,AMD_2022_10K,124.46675590800078,3,2,6461,180,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00438,B2,ADOBE_2022_10K,130.04327668299993,3,2,6604,395,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00464,B2,BOEING_2022_10K,123.92688541399912,2,2,3870,115,False,False,0.0,pass,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00476,B2,AMERICANEXPRESS_2022_10K,129.58942692399978,2,2,4396,267,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00494,B2,BOEING_2022_10K,67.80351762700047,3,1,6285,255,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00499,B2,3M_2022_10K,127.93211028400037,3,2,6164,317,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00517,B2,BOEING_2022_10K,68.80583440900045,3,1,6521,220,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00540,B2,AES_2022_10K,133.14795947900166,3,2,6858,162,False,False,0.5,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00563,B2,AMD_2022_10K,63.83477655000024,3,1,6340,134,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00566,B2,VERIZON_2022_10K,117.81905916799951,3,2,6619,257,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00585,B2,BOEING_2022_10K,126.78847157600103,3,2,6535,304,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00591,B2,ADOBE_2022_10K,123.91722251899955,3,2,6242,201,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00669,B2,JOHNSON_JOHNSON_2022_10K,126.49917687400011,2,2,4046,108,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00678,B2,BOEING_2022_10K,122.2007041779998,2,2,4151,109,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00711,B2,JOHNSON_JOHNSON_2022_10K,139.27091499000016,3,2,6769,259,False,False,0.5,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00720,B2,AMERICANEXPRESS_2022_10K,124.86084668900003,2,2,4262,99,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00723,B2,AMERICANEXPRESS_2022_10K,132.7124245369996,3,2,6509,357,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00735,B2,PEPSICO_2022_10K,125.60149436599932,2,2,4209,157,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00757,B2,AMD_2022_10K,116.38128526699984,2,2,3861,98,False,False,0.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00790,B2,CVSHEALTH_2022_10K,118.3516289399995,2,2,3731,115,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_00917,B2,AMD_2022_10K,127.6481423740006,3,2,6105,241,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_00956,B2,JOHNSON_JOHNSON_2022_10K,139.38671546500154,3,2,6028,287,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_00995,B2,AMD_2022_10K,129.80256749600085,2,2,4086,192,False,False,0.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_01009,B2,PEPSICO_2022_10K,132.0592225119999,2,2,4575,159,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01028,B2,AMERICANEXPRESS_2022_10K,126.78586392299985,2,2,4520,114,False,False,0.0,not_assessable,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01091,B2,BOEING_2022_10K,123.20561226400059,2,2,4281,151,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01107,B2,CVSHEALTH_2022_10K,129.35148355899946,3,2,6520,401,False,False,0.5,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_01198,B2,AMD_2022_10K,125.79164583500096,3,2,5989,246,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_01226,B2,3M_2022_10K,69.14385746399967,3,1,5728,196,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01244,B2,CVSHEALTH_2022_10K,63.105057859000226,3,1,5341,147,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_01254,B2,MGMRESORTS_2022_10K,61.90321494000091,2,1,4578,73,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01279,B2,AMD_2022_10K,66.53866624200055,3,1,7500,131,False,False,1.0,pass,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01290,B2,BOEING_2022_10K,122.1977011350009,2,2,4083,96,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01319,B2,AES_2022_10K,123.75792311899932,2,2,4654,128,True,False,1.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01328,B2,PEPSICO_2022_10K,66.826644802999,3,1,6944,146,False,False,0.0,not_assessable,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01346,B2,CORNING_2022_10K,66.04985064500033,3,1,6363,156,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01351,B2,AMERICANEXPRESS_2022_10K,67.46199270500074,3,1,6461,138,False,False,0.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01865,B2,3M_2022_10K,120.18711455700031,2,2,4189,91,True,False,0.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_01964,B2,AMERICANEXPRESS_2022_10K,127.92381120000027,3,2,7488,231,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_01981,B2,AMERICANEXPRESS_2022_10K,124.437283923,2,2,3949,95,False,False,1.0,pass,pass,pass,gpt-6.1-sol via Codex chat
+financebench_id_03620,B2,PEPSICO_2022_10K,135.75672804399983,3,2,7169,170,False,False,0.5,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_03718,B2,LOCKHEEDMARTIN_2022_10K,67.99346941600015,3,1,6597,184,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_04481,B2,PEPSICO_2022_10K,136.33694624899908,3,2,6729,211,False,False,1.0,fail,fail,fail,gpt-6.1-sol via Codex chat
+financebench_id_06272,B2,COCACOLA_2022_10K,131.31344949499908,3,2,6691,101,True,False,0.5,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_10136,B2,GENERALMILLS_2022_10K,73.37620209099987,3,1,6676,113,True,False,1.0,fail,not_assessable,not_assessable,predeclared terminal-state rule
+financebench_id_10420,B2,AES_2022_10K,136.66841684599967,3,2,6720,104,True,False,0.5,fail,not_assessable,not_assessable,predeclared terminal-state rule

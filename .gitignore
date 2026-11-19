@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+*.pem
+*.key
+rag_study/models/
+rag_study/hf_cache/
+rag_study/data/
+rag_study/outputs/

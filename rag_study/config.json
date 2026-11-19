@@ -1,0 +1,18 @@
+{
+  "generator": "qwen3.5:4b-q4_K_M",
+  "embedding": "BAAI/bge-small-en-v1.5",
+  "context_tokens": 4096,
+  "evidence_tokens": 2000,
+  "output_tokens": 512,
+  "chunk_tokens": 350,
+  "chunk_overlap": 50,
+  "retrieval_candidates": 30,
+  "top_k": 4,
+  "rrf_constant": 60,
+  "max_model_calls": 4,
+  "max_retrieval_rounds": 2,
+  "seed": 42,
+  "bootstrap_replicates": 2000,
+  "generator_tokenizer": "Qwen/Qwen3.5-4B",
+  "thinking": false
+}

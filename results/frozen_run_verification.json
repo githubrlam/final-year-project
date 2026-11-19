@@ -1,0 +1,57 @@
+{
+  "outputs_verified": 156,
+  "questions": 52,
+  "reports": 18,
+  "protocol_sha256": "69fcf91f3416fc46b56f5a3888afa5a406fb5281dde0e9b4ee0d0a6fbbc1fbb6",
+  "source_and_data_hashes_verified": true,
+  "original_whole_chunks_and_doc_scope_verified": true,
+  "reference_scores_replayed": 156,
+  "page_recall_replayed": 156,
+  "summary_and_2000_report_bootstrap_intervals_replayed": true,
+  "tokenizer_recount": true,
+  "max_evidence_tokens": 1994,
+  "max_prompt_tokens": 2918,
+  "prompt_limit": 5056,
+  "calculator_calls_replayed": 81,
+  "calculator_arithmetic_failures": 0,
+  "invalid_outputs": 2,
+  "pass_match_methods": {
+    "leading_yes_no": 25
+  },
+  "numeric_counts": {
+    "not_checked": 149,
+    "inconsistent": 7
+  },
+  "protected_files_unchanged": {
+    "rag_study/phase8/v4_dev_pool100/protected_before.json": 595,
+    "rag_study/outputs/analysis/phase6_gpu_v3/frozen_input_hashes.json": 63
+  },
+  "actual_gpu": "Tesla T4, 15360\nTesla T4, 15360",
+  "archive_sha256": "e3e10f8540ab92997d0ab55fb52235acbdad2deebfa1ee8ac16400009b9f07a8",
+  "predictions_sha256": "806509f9f6116ef4594189ba0bbc7aaf76adf50b0c48a5f83adceb8f23ade26c",
+  "no_new_inference": true,
+  "scoring_unchanged": true,
+  "local_tests": {
+    "pipeline": 142,
+    "cloud": 73,
+    "all_passed": true
+  },
+  "results_notebook": {
+    "path": "output/jupyter-notebook/phase_08_frozen_row_evaluation_results.ipynb",
+    "executed_code_cells": 6,
+    "errors": 0
+  },
+  "report": {
+    "markdown": "Report/RAG_Overall_Report.md",
+    "word": "Report/RAG_Overall_Report.docx",
+    "pdf": "Report/RAG_Overall_Report.pdf",
+    "pages": 50,
+    "render_checked": true
+  },
+  "artifact_sha256": {
+    "Report/RAG_Overall_Report.md": "8fd1d4a1884c8ab3cc8033ba56079775c80705657106ecc27bf9faad13c87bd1",
+    "Report/RAG_Overall_Report.docx": "92091166079fb7b2c990c8f5d75ce4ca22412ca17db97c142ff7d360fe3c7c6e",
+    "Report/RAG_Overall_Report.pdf": "86fd4169b48cd9745036dc8f91ca723d4136a56c4328e2193952d861a9acec55",
+    "output/jupyter-notebook/phase_08_frozen_row_evaluation_results.ipynb": "5c0c8c0403ef1b75efbe3c92bec32e1a37ca2067889fae018c8ae3cc49828102"
+  }
+}

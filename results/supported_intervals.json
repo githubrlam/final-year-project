@@ -1,0 +1,16 @@
+[
+  {
+    "comparison": "B2-B0",
+    "outcome": "AI-assessed supported correctness",
+    "difference": 0.15384615384615383,
+    "lower_95": 0.01612903225806453,
+    "upper_95": 0.3243683901292595
+  },
+  {
+    "comparison": "B2-B1",
+    "outcome": "AI-assessed supported correctness",
+    "difference": 0.0769230769230769,
+    "lower_95": -0.01924019607843136,
+    "upper_95": 0.16981132075471697
+  }
+]

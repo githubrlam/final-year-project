@@ -1,0 +1,7 @@
+experiment,configuration,variant,n,correct,invalid,abstentions,page_recall,median_seconds
+budget,baseline,B2,10,7,0,1,0.45,474.81962608349977
+budget,larger_budget,B2,10,7,0,1,0.8,1037.0323046849994
+model,4B,B2,10,7,0,1,0.8,961.3558111129998
+model,9B,B2,10,5,0,2,0.7,1571.4860172609988
+parent,flat,B2,10,7,0,1,0.8,1181.9904138599995
+parent,parent_child,B2,10,7,1,1,0.6,1510.5381498810002
